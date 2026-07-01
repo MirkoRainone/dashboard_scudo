@@ -82,8 +82,6 @@ st.markdown("""
 # ==========================================
 # 🗄️ COLLEGAMENTO DATABASE (Supabase)
 # ==========================================
-#SUPABASE_URL = "https://izghfwxmmeotrxpjbeym.supabase.co"
-#SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml6Z2hmd3htbWVvdHJ4cGpiZXltIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIxNTMzMzgsImV4cCI6MjA5NzcyOTMzOH0.LtxvympGKfgaJuEf0l6f9qMbLYyhMldM-2v6NDpxRYI"
 
 SUPABASE_URL = os.environ.get("SUPABASE_URL")
 SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
